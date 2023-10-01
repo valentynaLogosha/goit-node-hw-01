@@ -196,11 +196,7 @@ README.md. Створіть цей файл в корені проекту. Пі
 
 ---
 
-![Screenshoot](./assets/screenshoot-03.png)
-
----
-
-![Screenshoot](./assets/screenshoot-04.jpg)
+![Screenshoot](./assets/screenshoot-03.jpg)
 
 # Node.js ---> commands
 
